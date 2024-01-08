@@ -6,6 +6,21 @@
   "engines": {
     "vscode": "^1.85.0"
   },
+  "publisher": "uniss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unissAhmad/darkCoderTheme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "darkCoderTheme",
+    "coder",
+    "dark",
+    "dark coder",
+    "black",
+    "black theme"
+  ],
   "categories": [
     "Themes"
   ],
