@@ -1,6 +1,6 @@
 {
-  "name": "theme",
-  "displayName": "dark coder",
+  "name": "darkcoder",
+  "displayName": "The Dark Programmer",
   "description": "the ultimate dark theme for coders",
   "version": "0.0.1",
   "engines": {
